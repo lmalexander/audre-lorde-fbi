@@ -13,11 +13,11 @@ class Header extends Component {
                         NEW YORK 100-122142 AUDRE LORDE FBI FILES
                     </Navbar.Brand>
                     <Nav className="mr-auto">
-                        <Nav.Link href="#background">BACKGROUND</Nav.Link>
-                        <Nav.Link href="#files">FILES</Nav.Link>
-                        <Nav.Link href="#foia-request">FOIA</Nav.Link>
-                        <Nav.Link href="#citations">CITATIONS</Nav.Link>
-                        <Nav.Link href="#contact-lma">CONTACT</Nav.Link>
+                        <Nav.Link href="/background">BACKGROUND</Nav.Link>
+                        <Nav.Link href="/files">FILES</Nav.Link>
+                        <Nav.Link href="/foia-request">FOIA</Nav.Link>
+                        <Nav.Link href="/citations">CITATIONS</Nav.Link>
+                        <Nav.Link href="/contact-lma">CONTACT</Nav.Link>
                     </Nav>
                 </Navbar>
             </div>  

@@ -33,7 +33,6 @@ class App extends Component {
     <Router> 
       <div>
         <Container>
-        <h2>NEW YORK 100-122142 AUDRE LORDE FBI FILES</h2>
         <Header />
         
         <Route path="/" exact component={Home} />
